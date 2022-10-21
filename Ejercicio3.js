@@ -4,7 +4,7 @@ si no lo es que imprima “No es múltiplo”. */
 
 
 function third() {
-    let array=[3,6,9,12,15]
+    let array=[3,6,9,12,15];
     let largo = array.length;
     let suma = 0;
 
