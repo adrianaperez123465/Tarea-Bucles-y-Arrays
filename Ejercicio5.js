@@ -3,7 +3,7 @@ En caso de que exista imprimir un mensaje que muestre un mensaje avisando que es
 en el array. Caso contrario, agregar el número al array. */
 
 function enteros() {
-    let array = [2,4,5,6]
+    let array = [2,4,5,6];
     let x =5;
     let condición = false;
 
