@@ -15,9 +15,9 @@ function enteros() {
         }})
 
         if (condición== false) {
-         array.push (x);
-         console.log(`El número ${[x]} no existía, por eso se ha agregado al array`);
-         console.log(array);  
+            array.push (x);
+            console.log(`El número ${[x]} no existía, por eso se ha agregado al array`);
+            console.log(array);  
         }
 }
 
